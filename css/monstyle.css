@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-size: 18px ;
+}
+
+.container {
+    flex: 1 ;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.margetop{
+    margin-top: 60px;
+}
+.form-inline a{
+    text-decoration: none;
+}
+h1.text-center{
+    color: #2e6da4; 
+    font-size:40px;
+}
+h2.text-center{
+    color: #2e6da4; 
+    font-size: 30px;
+}
+.horizontale{
+    width: 40%;
+    margin: auto;
+
+}
+.input-container{
+    position: relative;
+}
+.show-old-pwd{
+    position: absolute;
+    margin-left: 28.5em;
+    margin-top: 0.4em;
+}
+.show-new-pwd{
+    position: absolute;
+    margin-left: 28.5em;
+    margin-top: 0.4em;
+}
+.form a{
+    text-decoration: none;
+}
+
+
