@@ -46,7 +46,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://votre-repository-url.git
+git clone https://github.com/amina-thioune/Gestion_des_stagiaires.git
 ```
 
 ### Configurer la Base de Données
