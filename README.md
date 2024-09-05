@@ -62,7 +62,7 @@ Vous pouvez importer le fichier SQL via phpMyAdmin ou en ligne de commande :
 
 - **Via la ligne de commande** :
     ```bash
-    mysql -u votre_utilisateur -p votre_base_de_donnees < base_de_donnes/base_de_donnees.sql
+    mysql -u votre_utilisateur -p gestion_stagiaire < base_de_donnes/base_de_donnees.sql
     ```
 
 2. **Configurer les Paramètres de Connexion :**
