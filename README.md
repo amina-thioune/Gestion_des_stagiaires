@@ -94,6 +94,11 @@ Vous pouvez importer le fichier SQL via phpMyAdmin ou en ligne de commande :
 
    Accédez à `http://localhost:8000` pour voir l'application.
 
+### Informations de Connexion
+
+- **Login Admin** : `admin`
+- **Mot de passe** : `123`
+
 ## Aperçu de quelques pages de l'application
 
 
